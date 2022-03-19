@@ -1,2 +1,2 @@
 # action-test
-# my-sample-controller-2
+# foo-controller-kubebuilder
